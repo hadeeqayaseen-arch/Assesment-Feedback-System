@@ -4,10 +4,12 @@
  */
 package afs.adminStaff.model;
 
+import afs.commonModel.User;
+
 /**
  *
  * @author hadee
  */
-public class AdminStaff {
+public class AdminStaff extends User{
     
 }

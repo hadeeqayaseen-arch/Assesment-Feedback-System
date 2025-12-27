@@ -4,10 +4,12 @@
  */
 package afs.lecturer.model;
 
+import afs.commonModel.User;
+
 /**
  *
  * @author hadee
  */
-public class Lecturer {
+public class Lecturer extends User {
     
 }

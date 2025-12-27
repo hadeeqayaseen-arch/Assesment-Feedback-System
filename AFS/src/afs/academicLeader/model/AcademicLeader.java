@@ -4,10 +4,12 @@
  */
 package afs.academicLeader.model;
 
+import afs.commonModel.User;
+
 /**
  *
  * @author hadee
  */
-public class AcademicLeader {
+public class AcademicLeader extends User {
     
 }
